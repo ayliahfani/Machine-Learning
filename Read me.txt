@@ -1,0 +1,28 @@
+
+INM431 MACHINE LEARNING COURSEWORK
+-----------------------------------
+Ayliah Fani - 200044837
+
+
+FILES
+------
+Within this folder you will find:
+	* MLCoursework.mlx 
+	* glass.csv (dataset)
+	* glass.txt (dataset information and description)
+	* poster.pdf
+	* supplementary material.pdf	
+
+DATA
+-----
+The Glass Identification dataset was used for this project. Acquired from the UCI Machine Learning Repository at https://archive.ics.uci.edu/ml/datasets/glass+identification
+
+
+RUNNING THE MODELS
+-------------------
+There is a single file which contains both models used (random forest and decision tree), evaluation, optimisation, and final predictions. 
+
+
+MATLAB VERSION
+-----
+Matlab R2020b (9.9.0.1467703) was used.

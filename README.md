@@ -1,4 +1,4 @@
-# ML-Coursework
+# GLASS IDENTIFICATION GIVEN CHEMICAL COMPOSITION: A COMPARATIVE STUDY OF RANDOM FORESTS AND DECISION TREES
 Final project for INM431 Machine Learning.
 
 This was a multi-label classification problem in which a glass sample is categorized predictively as one of six glass types provided its respective oxide content (i.e. Na, Fe, K, etcetera), and refractive index.
